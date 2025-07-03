@@ -10,14 +10,22 @@ gsap.registerPlugin(ScrollTrigger)
 const achievements = [
   {
     id: 1,
-    title: "Freelancer",
-    description: "Responsible of creating backend and cloud infrastructure efficient solutions",
-    date: "2024",
+    title: "Software Engineer @ Grupo Deca",
+    description: "Full stack development for a Geolocation services company, automating workflows for multi cluster kubernetes architecture",
+    date: "2025 - Now",
     category: "Junior - Mid",
-    icon: "💻",
+    icon: "🗺️",
   },
   {
     id: 2,
+    title: "Freelancer",
+    description: "Responsible of creating backend and cloud infrastructure efficient solutions",
+    date: "2024",
+    category: "Junior",
+    icon: "💻",
+  },
+  {
+    id: 3,
     title: "Web Developer Intern",
     description: "Frontend development with vanilla JS @ Espiral Sistemas",
     date: "2023",

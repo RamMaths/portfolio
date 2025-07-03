@@ -24,6 +24,13 @@ const projects = [
   },
   {
     id: 3,
+    title: "Portfolio",
+    description: "My portfolio website built with next.js, deployed to AWS using terraform and AWS official provider. Automated with github actions workflow to keep up to date the latest version the S3 bucket when a merge to main branch occurs.",
+    technologies: ["Typescript", "Next.js", "Terraform", "AWS S3", "AWS Cloud Front", "AWS Route 53", "Github Actions"],
+    githubUrl: "git@github.com:RamMaths/portfolio.git",
+  },
+  {
+    id: 4,
     title: "Harajuku",
     description:
       "This is a cloud native backend application built with go lang, it manages users, quotes and appointments ready to send emails to users using AWS SES, also with a cache layer for efficient responses. Built with hexagonal architecture we use PostgreSQL, Redis, AWS S3 Sdk, and AWS SES in the adapters layer.",
@@ -31,7 +38,7 @@ const projects = [
     githubUrl: "https://github.com/RamMaths/harajuku",
   },
   {
-    id: 4,
+    id: 5,
     title: "Email Newsletter",
     description:
       "Cloud native application to send emails to blog subscribers when a new post is made using Mailtrap",
@@ -39,7 +46,7 @@ const projects = [
     githubUrl: "https://github.com/RamMaths/email_newsletter",
   },
   {
-    id: 5,
+    id: 6,
     title: "Esp32 + AWS Iot Core Example",
     description:
       "Example to create firmware for an esp32 to create a TCP socket and send information over MQTT protocol establishing an SSL connection to AWS Iot Core broker",
