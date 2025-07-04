@@ -19,7 +19,7 @@ EOF
 
 Deploy the infrastructure!
 
-```
+```sh
 terraform init
 # Watch what is going to be created
 terraform plan
