@@ -331,7 +331,7 @@ export default function Home() {
             <div className="community-card bg-white/5 backdrop-blur-sm rounded-2xl overflow-hidden border border-white/10 hover:border-green-500/50 transition-colors">
               <div className="relative h-48 overflow-hidden">
                 <Image
-                  src="/ugsaltillo.png?height=200&width=400"
+                  src="/communityday.jpeg?height=200&width=400"
                   alt="Open Source Collaboration"
                   width={400}
                   height={200}
@@ -343,9 +343,9 @@ export default function Home() {
                 </div>
               </div>
               <div className="p-6 text-center">
-                <h3 className="text-xl font-bold mb-4 text-white">Present in tech communities</h3>
+                <h3 className="text-xl font-bold mb-4 text-white">Commited to share knowledge</h3>
                 <p className="text-gray-300 leading-relaxed">
-                  Active member of the AWS User Group Saltillo
+                  I feel passion about learning and sharing what I learn.
                 </p>
               </div>
             </div>

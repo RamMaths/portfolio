@@ -25,7 +25,7 @@ const projects = [
   {
     id: 3,
     title: "Portfolio",
-    description: "My portfolio website built with next.js, deployed to AWS using terraform and AWS official provider. Automated with github actions workflow to keep up to date the latest version the S3 bucket when a merge to main branch occurs.",
+    description: "My portfolio website built with next.js, deployed to AWS using terraform and AWS official provider. Automated with github actions workflow to deliver the latest version to production when a merge to the main branch occurs.",
     technologies: ["Typescript", "Next.js", "Terraform", "AWS S3", "AWS Cloud Front", "AWS Route 53", "Github Actions"],
     githubUrl: "git@github.com:RamMaths/portfolio.git",
   },

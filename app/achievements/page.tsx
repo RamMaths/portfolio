@@ -11,7 +11,7 @@ const achievements = [
   {
     id: 1,
     title: "Software Engineer @ Grupo Deca",
-    description: "Full stack development for a Geolocation services company, automating workflows for multi cluster kubernetes architecture",
+    description: "Full stack development with Python, Django, Typescript, Angular and more, for a Geolocation services company, automating workflows for multi cluster kubernetes architecture",
     date: "2025 - Now",
     category: "Junior - Mid",
     icon: "🗺️",
@@ -19,9 +19,9 @@ const achievements = [
   {
     id: 2,
     title: "Freelancer",
-    description: "Responsible of creating backend and cloud infrastructure efficient solutions",
+    description: "I developed robust, secure and efficient Rust cloud native applications. Also responsible of designing the Cloud Architecture, aligning functional and non functional requirements according to customer needs.",
     date: "2024",
-    category: "Junior",
+    category: "Freelancer",
     icon: "💻",
   },
   {
