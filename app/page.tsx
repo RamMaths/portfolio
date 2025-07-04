@@ -256,7 +256,7 @@ export default function Home() {
             <h1 className="hero-text text-6xl md:text-8xl font-bold bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent">
             Ramses Mata
             </h1>
-            <h2 className="hero-text text-2xl md:text-3xl text-gray-300 font-light">Backend Developer | Cloud Engineer</h2>
+            <h2 className="hero-text text-2xl md:text-3xl text-gray-300 font-light">Software Engineer</h2>
             <p className="hero-text text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
               Passionate about creating innovative and efficient solutions. 
             </p>
